@@ -3,6 +3,7 @@
     "lint": "deno run -RWESN npm:textlint",
     "lint:fix": "deno task lint --fix"
   },
+  "nodeModulesDir": "auto",
   "imports": {
     "textlint": "npm:textlint@15",
     "textlint-filter-rule-comments": "npm:textlint-filter-rule-comments@latest",
