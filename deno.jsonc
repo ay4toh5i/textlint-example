@@ -7,7 +7,7 @@
     "textlint": "npm:textlint@15",
     "textlint-filter-rule-comments": "npm:textlint-filter-rule-comments@latest",
     "textlint-rule-preset-ja-technical-writing": "npm:textlint-rule-preset-ja-technical-writing@latest",
-    "textlint-rule-preset-ai-writing": "npm:@textlint-ja/textlint-rule-preset-ai-writing@latest",
-    "textlint-rule-proofdict": "npm:@proofdict/textlint-rule-proofdict@latest"
+    "@textlint-ja/textlint-rule-preset-ai-writing": "npm:@textlint-ja/textlint-rule-preset-ai-writing@latest",
+    "@proofdict/textlint-rule-proofdict": "npm:@proofdict/textlint-rule-proofdict@latest"
   }
 }
